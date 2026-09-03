@@ -1,0 +1,6 @@
+{
+  "name": "Sky View",
+  "description": "International airline reservation system with multi-class booking, dynamic destination rewards, interactive seat selection, flexible fare rules, payment processing, and real-time email dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
